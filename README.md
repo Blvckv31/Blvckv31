@@ -11,20 +11,3 @@
 </div>
 
 ---
-
-## 🧑‍💻 A little about me
-
-```text
-I started with software.
-
-Backend.
-APIs.
-Microservices.
-Cloud.
-Distributed systems.
-
-Then I started asking:
-
-        "What if the software is controlling a factory?"
-
-That question led me to Industry 4.0.
