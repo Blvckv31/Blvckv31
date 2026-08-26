@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=OMKAR%20VATSA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Systems%20%7C%20Industry%204.0&descAlignY=58&descSize=18&color=gradient" width="100%"/>
 
-### i code. i build. i make machines talk.
+### writing software for a world that moves
 
 **Software Engineer @ Ericsson**
 
