@@ -4,7 +4,7 @@
 
 ### writing software for a world that moves
 
-**Software Engineer @ Ericsson**
+**Software Developer @ Ericsson**
 
 </div>
 
