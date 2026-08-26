@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 🏭 `Industry 4.0`  ⚙️ `MES`  📡 `Industrial IoT`
+### MES · Industry 4.0 · Industrial Automation · Industrial Software
 
 </div>
 
