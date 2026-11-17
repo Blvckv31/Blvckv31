@@ -1,69 +1,39 @@
-  <div align="center">
+<div align="center">
 
-  <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=OMKAR%20VATSA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Dist
-  ributed%20Systems%20%7C%20Cloud-Native&descAlignY=58&descSize=18&color=0:5C258D,100:4389A2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=OMKAR%20VATSA&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%7C%20Distributed%20Systems%20%7C%20Cloud-Native&descAlignY=58&descSize=18&color=0:5C258D,100:4389A2" width="100%"/>
 
-  ### building backend systems that hold up under load
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=4389A2&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+Ericsson;Fault-tolerant+microservices+in+Java+%26+Go;Event-driven+systems+on+Kafka;Cloud-native+platforms+on+AWS+EKS;Fault-tolerant+by+design.+Observable+by+default." alt="Typing SVG"/>
 
-  **Software Engineer @ Ericsson**
+<br><br>
 
-  </div>
+<img src="https://img.shields.io/badge/Ericsson-Software%20Engineer-5C258D?style=flat-square&logo=ericsson&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bengaluru-India-4389A2?style=flat-square&logo=googlemaps&logoColor=white"/>
 
-  ---
+<br><br>
 
-  <div align="center">
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-gRPC-244C5A?style=for-the-badge"/>
 
-  ### Distributed Systems · Event-Driven Microservices · Cloud-Native Platforms · RAG Infrastructure
+<img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 
-  </div>
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 
-  <br>
+<br><br>
 
-  <div align="center">
+<a href="https://www.linkedin.com/in/omkarvatsa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ankushwork31@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-  <br>
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-  ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-  ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5C258D,100:4389A2" width="100%"/>
 
-  </div>
-
-  <br>
-
-  ### ⚙️ What I work on
-
-  - **Microservice decomposition**: strangler-fig migrations, DB-per-service, gRPC contracts, Resilience4j fault isolation
-  - **Event-driven systems**: idempotent Kafka pipelines and state reconciliation across distributed datastores
-  - **Retrieval infrastructure**: multi-tenant hybrid search (FAISS + BM25, cross-encoder reranking) at sub-second latency
-  - **Platform & observability**: GitOps on AWS EKS, p95/p99 SLOs, JVM-level telemetry in Prometheus/Grafana
-
-  <br>
-
-  <div align="center">
-
-  > **fault-tolerant by design.
-  > observable by default.**
-
-  </div>
-
-  <br>
-
-  <div align="center">
-
-  <a href="https://www.linkedin.com/in/omkarvatsa/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ankushwork31@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5C258D,100:4389A2" width="100%"/>
-
-  </div>
+</div>
