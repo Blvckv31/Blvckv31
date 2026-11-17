@@ -1,8 +1,8 @@
- <div align="center">
+  <div align="center">
 
   <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=OMKAR%20VATSA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bac
-  kend%20%7C%20Distributed%20Systems%20%7C%20Cloud-Native&descAlignY=58&descSize=18&color=gradient" width="100%"/>
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=OMKAR%20VATSA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Dist
+  ributed%20Systems%20%7C%20Cloud-Native&descAlignY=58&descSize=18&color=0:5C258D,100:4389A2" width="100%"/>
 
   ### building backend systems that hold up under load
 
@@ -50,15 +50,6 @@
 
   <br>
 
-  ### 📌 Featured
-
-  | Project | What it is | Stack |
-  |---|---|---|
-  | [**Mythos AI**](https://github.com/Blvckv31/Mythos-AI) | Multi-agent LLM runtime with intent routing, provider-agnostic dispatch with fallback, and three-tier
-  FAISS-backed memory | Python · FastAPI · FAISS · LangChain |
-
-  <br>
-
   <div align="center">
 
   > **fault-tolerant by design.
@@ -73,6 +64,6 @@
   <a href="https://www.linkedin.com/in/omkarvatsa/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ankushwork31@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5C258D,100:4389A2" width="100%"/>
 
   </div>
